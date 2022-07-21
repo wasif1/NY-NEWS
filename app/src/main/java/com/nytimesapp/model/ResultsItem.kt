@@ -22,9 +22,6 @@ data class ResultsItem(
 	@SerializedName("nytdsection")
 	val nytdsection: String? = null,
 
-//	@SerializedName("column")
-//	val column: Any? = null,
-
 	@SerializedName("section")
 	val section: String? = null,
 
@@ -57,9 +54,6 @@ data class ResultsItem(
 
 	@SerializedName("adx_keywords")
 	val adxKeywords: String? = null,
-
-//	@SerializedName("geo_facet")
-//	val geoFacet: List<Any?>? = null,
 
 	@SerializedName("id")
 	val id: Long? = null,
