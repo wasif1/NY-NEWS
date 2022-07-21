@@ -16,7 +16,6 @@
 
 ## Languages
 - Kotlin
-- Java
 
 ## Flavors
 - Staging
