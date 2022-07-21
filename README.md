@@ -18,6 +18,8 @@ Follow the steps given below
 
 ## How to Run the Test Cases
 
+Follow the steps given below
+
 - Open Project Package which is 'NYTimesApp'
 - Goto APP Package
 - GOTO SRC Package, now you will see three packages which is androidTest(UI Test Cases Package), main(Main Application code Package), test(Unit test Cases Package)
